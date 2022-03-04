@@ -1,0 +1,10 @@
+requests
+pyfiglet
+python-whois
+pyspeedtest
+whois
+pynput
+smtplib
+pip
+geocoder
+progress
